@@ -34,5 +34,5 @@ Mas de 112 titulos disponibles en Hotmart.
 
 ## Contacto profesional
 
-LinkedIn: https://linkedin.com/in/[tu-perfil]
-Email: mespinoza@pmsproyectos.com.pe
+LinkedIn: www.linkedin.com/in/marco-espinoza-civil
+Email: mespinozh@uni.pe
