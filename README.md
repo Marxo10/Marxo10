@@ -3,7 +3,7 @@
 
 18+ años supervisando obras civiles en líneas de transmisión y subestaciones
 eléctricas en Perú. Especialista en gestión técnica, contractual y de calidad
-para proyectos de alta tensión.
+para proyectos de alta tensión. 
 
 ---
 
