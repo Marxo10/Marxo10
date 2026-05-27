@@ -1,16 +1,38 @@
-## Hi there 👋
+# Ing. Marco Espinoza H.
+### Supervisor Senior | Infraestructura Eléctrica LT 60kV–220kV | PM PMBOK v7
 
-<!--
-**Marxo10/Marxo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+18+ años supervisando obras civiles en líneas de transmisión y subestaciones
+eléctricas en Perú. Especialista en gestión técnica, contractual y de calidad
+para proyectos de alta tensión.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Especialidades tecnicas
+
+- Supervision ITO: cimentaciones, concreto, estructuras, geotecnia
+- Gestion contractual: FIDIC EPC / Ley 30225
+- Control de proyectos: EVM (CPI, SPI, EAC) | PMBOK v7
+- SSOMA: Ley 29783 / DS 023-2017-EM
+- Normativa: RNE, ACI 318, ASTM, ISO 9001
+
+---
+
+## Stack tecnico
+
+Excel · Power BI · Python · AutoCAD · SAP2000 · S10 · Primavera P6 · MS Project
+
+---
+
+## Serie CampoReal
+
+Manuales tecnicos para ingenieros civiles de campo en LT y subestaciones.
+Mas de 112 titulos disponibles en Hotmart.
+
+-> https://go.hotmart.com/M104478109P
+
+---
+
+## Contacto profesional
+
+LinkedIn: https://linkedin.com/in/[tu-perfil]
+Email: mespinoza@pmsproyectos.com.pe
